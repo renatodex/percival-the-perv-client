@@ -35,7 +35,9 @@ Para isso, seguem algumas sugestões de comentários que seu PlayTest pode abran
 ## Autores
 
 :wolf: Francesco Silva - Facebook: [francesco.silva.5](https://www.facebook.com/francesco.silva.5)
+
 :mouse: Luiz Bizelli (@pipobizelli) - Facebook : [pipo.bizelli](https://www.facebook.com/pipo.bizelli)
+
 :frog: Renato Alves (@renatodex) - Facebook: [renato.millhouse](https://www.facebook.com/renato.millhouse)
 
 ## Acompanhe o desenvolvimento!
